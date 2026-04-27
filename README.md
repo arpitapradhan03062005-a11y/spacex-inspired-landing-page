@@ -1,5 +1,3 @@
-# spacex-inspired-landing-page
-A SpaceX-inspired landing page built using HTML and CSS. Focused on layout design, flexbox, and modern UI styling.
 # SpaceX Inspired Landing Page 🚀
 
 This project is a SpaceX-inspired landing page built using HTML and CSS.
